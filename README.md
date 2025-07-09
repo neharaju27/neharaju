@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/neha-raju27 "><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
   <a href="neharaju719@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github"/></a>
 </p>
 
 ---
@@ -57,4 +56,4 @@
 ## 📫 Contact Me
 - 💌 neharaju719@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/neha-raju27)
-- 🌐 [Portfolio Website](https://yourportfolio.com)
+
