@@ -9,9 +9,11 @@
 ---
 
 ## 🔍 About Me
-- 🎓 Background in Data Analysis
-- 🛠️ Skilled in Python, SQL, Power BI, Tableau, Machine Learning
-- 📊 Passionate about turning data into insights through visualization and storytelling
+ Detail-oriented and analytical-minded Data Analytics graduate with strong skills in Excel, SQL,
+ Python, and data visualization tools like Power BI and Tableau. Adept at interpreting data to drive
+ insights and support decision-making. Quick learner with hands-on academic projects in data
+ cleaning, analysis, and reporting. Eager to contribute to data-driven solutions in a dynamic, growth
+focused organization.
 
 ---
 
